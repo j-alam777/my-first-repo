@@ -3,14 +3,23 @@ p{
 }
 h1{
         color:red;
-        width: 30px;   
+        background-color: rgb(220, 238, 245);
+        
 }
 #yusair{
         color:darkgreen;
+        background-color: beige;
+        font-size: 80px;
 
+}
+#zayeen{
+        color:blueviolet
+        background-color: beige;
+        font-size: 80px;
 }
 .yamin{
         font-size: 80px;
+        color:aquamarine;
 }
 *{
         text-align: center;
